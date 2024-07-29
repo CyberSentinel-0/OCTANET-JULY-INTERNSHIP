@@ -21,7 +21,7 @@ We ship to all addresses, ensuring that your plants and products arrive safely a
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/CyberSentinel-0/OCTANET-JULY-INTERNSHIP.git
+    git clone https://github.com/CyberSentinel-0/OCTANET-JULY-INTERNSHIP-TAST-1.git
     ```
 
 2. **Open the Index Page**: Navigate to the cloned repository and open the `index.html` file in your browser to view the front page of our website.
