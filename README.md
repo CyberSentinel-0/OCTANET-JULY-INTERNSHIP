@@ -1,6 +1,6 @@
 # PlantX - Sample Online Store for Home Decoration Plants
 
-This repository is part of an internship task provided by Octanet Pvt Ltd. The goal is to create a front page for a hypothetical online store called PlantX, which offers a wide variety of home decoration plants, seeds, pots, and plant care products.
+This repository is part of an internship task provided by OctaNet Pvt Ltd. The goal is to create a front page for a hypothetical online store called PlantX, which offers a wide variety of home decoration plants, seeds, pots, and plant care products.
 
 ## About PlantX
 
